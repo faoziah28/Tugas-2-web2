@@ -40,7 +40,7 @@ $data_baru = $db->tampil_data();
           <a class="nav-link" href="tampil_transportasi.php">Tampil Transportasi Mobil</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="tampil_tgs.php">Tampil Izin Sekjur</a>
+          <a class="nav-link" href="tampil_tgs.php">Tampil semua transportasi</a>
         </li>
       
         </li>
