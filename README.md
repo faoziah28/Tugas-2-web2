@@ -1,7 +1,9 @@
 ## Tugas 2 Study Kasus
 
 Nama  : Anisatun Faoziah Afni Nurjanah
+
 Kelas : TI 2D
+
 NPM   : 230302075
 
 1. Membuat Project OOP dengan View Based menggunakan 2 tabel Surat Tugas dan Surat Ijin yang ada pada database persuratan_dosen yang database nya
@@ -290,5 +292,7 @@ NPM   : 230302075
 <img width="921" alt="izin semua" src="https://github.com/user-attachments/assets/79292a09-5d55-439d-a583-328408680f65">
 
 # 5.Tampil semua surat tugas
+<img width="926" alt="all trans" src="https://github.com/user-attachments/assets/4ed928d2-3432-45a0-b9e9-ca4780adeab4">
+
 
    
